@@ -42,5 +42,23 @@ https://drive.google.com/file/d/16dX2fbXP9qhfUznsYit0iP89W2JZGaH7/view?usp=shari
 https://drive.google.com/file/d/1-jYX_K-TRQFvpCvhlMdSA4oJoc6tLWQU/view?usp=sharing
 
 
+The heart of the project is the **APS13568 IC**, which is an ultra-sensitive, omnipolar Hall-effect switch with an integrated linear LED driver. This IC simplifies wardrobe lighting by replacing mechanical switches with a reliable magnetic sensor.
+
+When the door is **opened** (magnet is far), the LED **turns on smoothly**. When the door is **closed** (magnet is near), the LED **fades out**. Resistor `R3` sets the LED current (~100mA), and capacitor `C2` controls the fade duration. Optionally, removing resistor `R4` reverses the magnet logic.
+
+Ideal for:
+- Wardrobes
+- Glove boxes
+- Task lighting
+- Automotive mirrors
+
+---
+
+## 📎 Notes
+- Fade-in/fade-out adjustable via `C2`
+- LED current adjustable up to 150mA
+- Default polarity: **LED ON when magnet is far**
+
+
 Peace!!!!
 
