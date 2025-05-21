@@ -12,16 +12,16 @@ This project uses a **Hall-effect sensor-based LED driver (APS13568)** to automa
 
 ## 📦 Bill of Materials (BOM)
 
-| SR. | QNTY. | REF.   | DESCRIPTION           |
-|-----|-------|--------|------------------------|
-| 1   | 1     | CN1    | 5 PIN HEADER CONNECTOR |
-| 2   | 1     | C1     | 1uF/16V SMD 0805       |
-| 3   | 1     | C2     | 2.2uF SMD 0805         |
-| 4   | 1     | D1     | WHITE LED              |
-| 5   | 1     | R1     | 4K7 SMD 0805           |
-| 6   | 2     | R2, R4 | 0E SMD 1206            |
-| 7   | 1     | R3     | 1K SMD 0805            |
-| 8   | 1     | U1     | APS13568 SMD SO8       |
+| SR. | QNTY. | DESCRIPTION           |
+|-----|-------|-----------------------|
+| 1   | 1     | 5 PIN HEADER CONNECTOR |
+| 2   | 1     | 1uF/16V SMD 0805       |
+| 3   | 1     | 2.2uF SMD 0805         |
+| 4   | 1     | WHITE LED              |
+| 5   | 1     | 4K7 SMD 0805           |
+| 6   | 2     | 0E SMD 1206            |
+| 7   | 1     | 1K SMD 0805            |
+| 8   | 1     | APS13568 SMD SO8       |
 
 
 ### Schematic
